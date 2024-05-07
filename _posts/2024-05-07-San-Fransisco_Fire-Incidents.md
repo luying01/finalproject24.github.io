@@ -6,7 +6,7 @@ categories: report website
 ---
 
 
-#### INTRODUCTION
+### INTRODUCTION
 
 Welcome to the dynamis and vibrant San Francisco Bay Area, a region with innovation, culture, and natural beauty. However, amidst its bustling energy and stunning landscapes, lies a sobering reality: the Bay Area is a hotspot for both natural and man-made disasters.
 
@@ -17,7 +17,7 @@ Intriguingly, we also seek to unravel the intricate relationship between the reg
 Join us as we delve into the resilience efforts of this iconic region against the unexpected, while shedding light on the critical interplay between economy and emergency response.
 
 
-#### Fire incidents stastics from 2019 to 2023
+### Fire incidents stastics from 2019 to 2023
 
 ![Alt text](https://raw.githubusercontent.com/luying01/finalproject24.github.io/main/graphs/stackbarchart.png "a title")
 
@@ -31,15 +31,15 @@ Another factor that should not be underestimated, especially when talking about 
 
 In fact, as reported by the San Francisco Chronicle, climate change has made California wildfires more explosive, increasing the number of days with extreme growth by 25%, according to a study led by scientists at San Jose State University, UC Berkeley and other California research institutions. [1]
 
-#### Regional economic level is positively related to rescue arrival speed
-##### Fire Department response time
+### Regional economic level is positively related to rescue arrival speed
+#### Fire Department response time
 <embed 
        type="text/html" 
        src="https://luying01.github.io/finalproject24.github.io/graphs/map_t.html"
        width="800"
        height="600"
        >
-##### Rent per Sqr.Ft
+#### Rent per Sqr.Ft
 <embed 
        type="text/html" 
        src="https://luying01.github.io/finalproject24.github.io/graphs/map_r.html"
