@@ -15,7 +15,7 @@ Join us as we dive in the (i will change this part adding economy)
 
 ### Fire incidents stastics from 2019 to 2023
 
-![Alt text](/graphs/stackbarchart.png "a title")
+![Alt text](https://raw.githubusercontent.com/luying01/finalproject24.github.io/main/graphs/stackbarchart.png "a title")
 
 The stacked bar chart in Fig. 1 shows how there has been an increase in 911 calls over the years.
 The initial trend may also be due to the fact that during 2019-2020 there was the COVID -19 emergency.
@@ -25,25 +25,18 @@ Another factor that should not be underestimated, especially when talking about 
 In fact, come riportato dal San Francisco chronicle, climate change has made California wildfires more explosive, increasing the number of days with extreme growth by 25%, according to a study led by scientists at San Jose State University, UC Berkeley and ether California reseacch institutions.
 
 ### Maps showing 
-here is a fun test
-<embed 
-       type="text/html" 
-       src="/graphs/map.html"
-       width="800"
-       height="600"
-       >
 
 ### Maps showing crime concentration for different areas of SF
 <embed 
        type="text/html" 
-       src="/graphs/map_t.html"
+       src="https://raw.githubusercontent.com/luying01/finalproject24.github.io/main/graphs/map_t.html"
        width="800"
        height="600"
        >
 
 <embed 
        type="text/html" 
-       src="/graphs/map_r.html"
+       src="https://raw.githubusercontent.com/luying01/finalproject24.github.io/main/graphs/map_r.html"
        width="800"
        height="600"
        >
