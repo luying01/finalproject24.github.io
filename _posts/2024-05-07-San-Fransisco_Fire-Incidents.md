@@ -7,3 +7,10 @@ categories: finalproject24.github.io website
 
 # INTRODUCTION – FIRE INCIDENTS IN SAN FRANSISCO
 
+### Maps showing crime concentration for different areas of SF
+<embed 
+       type="text/html" 
+       src="/graphs/map_t.html"
+       width="800"
+       height="600"
+       >
