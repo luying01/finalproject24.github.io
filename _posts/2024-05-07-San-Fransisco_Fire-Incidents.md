@@ -23,13 +23,10 @@ Join us as we delve into the resilience efforts of this iconic region against th
 
 The stacked bar chart in shows how there has been an increase in 911 calls over the years.
 
-The initial trend may also be due to the fact that during 2019-2020 there was the COVID -19 emergency.
+The initial trend may also be due to the fact that during 2019-2020 there was **the COVID -19 emergency**. Because COVID-19 forced the inhabitants into a lockdown for a period of time.The lockdown may have been influential in lowering calls as the proportion of 911 calls due to illegal fires caused by human activity or the negligent use of flammable materials in the workplace or home environment would have been almost eliminated.
 
-COVID-19 forced the inhabitants into a lockdown for a period of time.
-The lockdown may have been influential in lowering calls as the proportion of 911 calls due to illegal fires caused by human activity or the negligent use of flammable materials in the workplace or home environment would have been almost eliminated.
-Another factor that should not be underestimated, especially when talking about the Bay area, would be climate change.
-
-In fact, as reported by the San Francisco Chronicle, climate change has made California wildfires more explosive, increasing the number of days with extreme growth by 25%, according to a study led by scientists at San Jose State University, UC Berkeley and other California research institutions. [1]
+Another factor that should not be underestimated, especially when talking about the Bay area, would be **climate change**.
+As reported by the San Francisco Chronicle, climate change has made California wildfires more explosive, increasing the number of days with extreme growth by 25%, according to a study led by scientists at San Jose State University, UC Berkeley and other California research institutions. [1]
 
 ### Regional economic level is positively related to rescue arrival speed
 #### Fire Department response time
@@ -48,12 +45,12 @@ In fact, as reported by the San Francisco Chronicle, climate change has made Cal
        >
 * Hove over the neighborhood to get detailed number and rank.
 
-The figures are based on data from the official website DataSF. Rent is a reliable indicator of economic status. Generally, areas with higher rent are more affluent.
+The figures are based on data from the official website DataSF. Rent is a reliable indicator of economic status. Generally, **areas with higher rent are more affluent**. And **the respond time is shorter in affluent areas**.
 
-As we can see the north-east area, is one of the most affluent areas of san fransisco and also has a fast response time, tar all there is the financial district has a good speed rank and is the second area with the most expensive rent.
+Looking close to the figures, we can see the north-east area, is one of the most affluent areas of san fransisco and also has a fast response time, among all there is the financial district has a good speed rank and is the second area with the most expensive rent.
 As has been pointed out by comparing the two images the Golden Gate area is the most expensive but the response time is pretty long.
 
-Instead in the South part of san frnsisco, where the subburvs are, we can see that the response time is very low and the rents are very low, among all there is Visitacion Valley which has among the lowest rents and an equally low response time.
+Instead in the South part of san fransisco, where the subburvs are, we can see that the response time is very low and the rents are very low, among all there is Visitacion Valley which has among the lowest rents and an equally low response time.
 For what concern the Presidio area unfortunately we do not have data regarding the cost of rents in this area.
 
 REFERENCES	
