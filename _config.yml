@@ -23,7 +23,7 @@ email: s232177@dtu.dk s232698@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   For this website, we have looked into fire incidents in San Fransisco neighbourhoods and connect the response time of the fire department with the ecomomic status of the neighbourhood, which we have linked to the average rent.
 domain: luying01.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/finalproject24.github.io" # the subpath of your site, e.g. /blog
 url: "https://luying01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: donthavetwitter
 github_username:  luying01
