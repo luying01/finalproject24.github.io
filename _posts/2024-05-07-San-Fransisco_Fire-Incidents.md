@@ -26,12 +26,14 @@ In fact, come riportato dal San Francisco chronicle, climate change has made Cal
 
 ### Maps showing 
 
+### Maps showing crime concentration for different areas of SF
 <embed 
        type="text/html" 
        src="/graphs/map_t.html"
        width="800"
        height="600"
        >
+
 <embed 
        type="text/html" 
        src="/graphs/map_r.html"
@@ -40,3 +42,4 @@ In fact, come riportato dal San Francisco chronicle, climate change has made Cal
        >
 
 more stuff here
+
