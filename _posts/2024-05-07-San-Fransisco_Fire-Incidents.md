@@ -21,7 +21,7 @@ Join us as we delve into the resilience efforts of this iconic region against th
 
 ![Alt text](https://raw.githubusercontent.com/luying01/finalproject24.github.io/main/graphs/stackbarchart.png "a title")
 
-The stacked bar chart in shows how there has been an increase in 911 calls over the years.
+The stacked bar chart shows how there has been an increase in 911 calls over the years.
 
 The initial trend may also be due to the fact that during 2019-2020 there was **the COVID -19 emergency**. Because COVID-19 forced the inhabitants into a lockdown for a period of time.The lockdown may have been influential in lowering calls as the proportion of 911 calls due to illegal fires caused by human activity or the negligent use of flammable materials in the workplace or home environment would have been almost eliminated.
 
