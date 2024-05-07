@@ -25,6 +25,13 @@ Another factor that should not be underestimated, especially when talking about 
 In fact, come riportato dal San Francisco chronicle, climate change has made California wildfires more explosive, increasing the number of days with extreme growth by 25%, according to a study led by scientists at San Jose State University, UC Berkeley and ether California reseacch institutions.
 
 ### Maps showing 
+here is a fun test
+<embed 
+       type="text/html" 
+       src="/graphs/map.html"
+       width="800"
+       height="600"
+       >
 
 ### Maps showing crime concentration for different areas of SF
 <embed 
