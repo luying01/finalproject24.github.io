@@ -24,11 +24,17 @@ The lockdown may have been influential in lowering calls as the proportion of 91
 Another factor that should not be underestimated, especially when talking about the Bay area, would be climate change.
 In fact, come riportato dal San Francisco chronicle, climate change has made California wildfires more explosive, increasing the number of days with extreme growth by 25%, according to a study led by scientists at San Jose State University, UC Berkeley and ether California reseacch institutions.
 
+### Maps showing 
 
-### Maps showing crime concentration for different areas of SF
 <embed 
        type="text/html" 
        src="/graphs/map_t.html"
+       width="800"
+       height="600"
+       >
+<embed 
+       type="text/html" 
+       src="/graphs/map_r.html"
        width="800"
        height="600"
        >
