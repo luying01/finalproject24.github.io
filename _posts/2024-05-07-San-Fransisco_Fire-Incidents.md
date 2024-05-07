@@ -7,7 +7,6 @@ categories: finalproject24.github.io website
 
 # FIRE INCIDENTS IN SAN FRANSISCO
 
-<<<<<<< Updated upstream
 ### INTRODUCTION
 
 Welcome to the dynamis and vibrant San Francisco Bay Area, a region with innovation, culture, and natural beauty. However, amidst its bustling energy and stunning landscapes, lies a sobering reality: the Bay Area is a hotspot for both natural and man-made disasters.
@@ -15,14 +14,17 @@ The San Francisco Bay Area is extremely susceptible to man-made and natural cala
 Join us as we dive in the (i will change this part adding economy)
 
 ### Fire incidents stastics from 2019 to 2023
+
 ![Alt text](/graphs/stackbarchart.png "a title")
+
 The stacked bar chart in Fig. 1 shows how there has been an increase in 911 calls over the years.
 The initial trend may also be due to the fact that during 2019-2020 there was the COVID -19 emergency.
 COVID-19 forced the inhabitants into a lockdown for a period of time.
 The lockdown may have been influential in lowering calls as the proportion of 911 calls due to illegal fires caused by human activity or the negligent use of flammable materials in the workplace or home environment would have been almost eliminated.
 Another factor that should not be underestimated, especially when talking about the Bay area, would be climate change.
 In fact, come riportato dal San Francisco chronicle, climate change has made California wildfires more explosive, increasing the number of days with extreme growth by 25%, according to a study led by scientists at San Jose State University, UC Berkeley and ether California reseacch institutions.
-=======
+
+
 ### Maps showing crime concentration for different areas of SF
 <embed 
        type="text/html" 
@@ -30,4 +32,5 @@ In fact, come riportato dal San Francisco chronicle, climate change has made Cal
        width="800"
        height="600"
        >
->>>>>>> Stashed changes
+
+more stuff here
